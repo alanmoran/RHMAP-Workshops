@@ -88,3 +88,7 @@ cordova.plugins.barcodeScanner.scan(function (result) {
 ### Solutions:
 * [Client](https://github.com/alanmoran/barcode-client)
 * [Cloud](https://github.com/alanmoran/barcode-cloud)
+
+
+##Workshop 4 - Weather Service
+https://github.com/alanmoran/workshop4
